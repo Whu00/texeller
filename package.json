@@ -1,0 +1,15 @@
+{
+	"name": "texeller",
+	"productName": "Texeller",
+	"version": "0.2.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"author": "Whu00 aka Ivan Shekunov",
+	"license": "Apache-2.0",
+	"devDependencies": {
+		"electron": "^27.1.3"
+	}
+}
